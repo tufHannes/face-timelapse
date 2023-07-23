@@ -2,3 +2,4 @@
 *.jpg
 shape_predictor_68_face_landmarks.dat
 .ipynb_checkpoints/facematching-checkpoint.ipynb
+project.avi
